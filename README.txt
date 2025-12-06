@@ -8,4 +8,5 @@ Arbol binario de búsqueda: Para el catálogo o inventario de la tienda.
 Grafo ponderado y no dirigido: Para el mapeo de rutas y determinar entrega óptima.
 
 Integrantes: José Arturo Gutiérrez Murillo
-Fecha 16-11-2025
+
+Fecha 06-12-2025
